@@ -1,6 +1,6 @@
 # VizTracer
 
-[![build](https://github.com/luoos/viztracer/workflows/build/badge.svg)](https://github.com/luoos/viztracer/actions?query=workflow%3Abuild)  [![readthedocs](https://img.shields.io/readthedocs/viztracer)](https://viztracer.readthedocs.io/en/stable/)  [![coverage](https://img.shields.io/codecov/c/github/gaogaotiantian/viztracer)](https://codecov.io/gh/gaogaotiantian/viztracer)  [![pypi](https://img.shields.io/pypi/v/viztracer.svg)](https://pypi.org/project/viztracer/)  [![support-version](https://img.shields.io/pypi/pyversions/viztracer)](https://img.shields.io/pypi/pyversions/viztracer)  [![license](https://img.shields.io/github/license/gaogaotiantian/viztracer)](https://github.com/gaogaotiantian/viztracer/blob/master/LICENSE)  [![commit](https://img.shields.io/github/last-commit/gaogaotiantian/viztracer)](https://github.com/gaogaotiantian/viztracer/commits/master)  [![flake8](https://github.com/luoos/viztracer/workflows/Lint/badge.svg)](https://github.com/luoos/viztracer/actions?query=workflow%3ALint)  [![twitter](https://img.shields.io/twitter/follow/viztracer?label=viztracer&style=flat&logo=twitter)](https://twitter.com/viztracer)
+[![build](https://github.com/luoos/viztracer/workflows/build/badge.svg)](https://github.com/luoos/viztracer/actions?query=workflow%3Abuild)  [![lint](https://github.com/luoos/viztracer/workflows/lint/badge.svg)](https://github.com/luoos/viztracer/actions?query=workflow%3ALint)  [![readthedocs](https://img.shields.io/readthedocs/viztracer)](https://viztracer.readthedocs.io/en/stable/)  [![commit](https://img.shields.io/github/last-commit/gaogaotiantian/viztracer)](https://github.com/gaogaotiantian/viztracer/commits/master)  [![twitter](https://img.shields.io/twitter/follow/viztracer?label=viztracer&style=flat&logo=twitter)](https://twitter.com/viztracer)
 
 VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 
@@ -8,7 +8,7 @@ You can take a look at the [demo](http://www.minkoder.com/viztracer/result.html)
 The UI is powered by [Chrome Trace Viewer](https://chromium.googlesource.com/catapult). **Use "AWSD" to zoom/navigate**.
 More help can be found by clicking "?" on the top right corner.
 
-[![example_img](https://github.com/gaogaotiantian/viztracer/blob/master/img/example.png)](https://github.com/gaogaotiantian/viztracer/blob/master/img/example.png)
+[![example_img](https://github.com/luoos/viztracer/blob/master/img/example.png)](https://github.com/luoos/viztracer/blob/master/img/example.png)
 
 
 ## Highlights
